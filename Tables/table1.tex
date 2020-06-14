@@ -1,0 +1,30 @@
+\begin{center}
+\begin{table}[H] \centering
+\captionsetup{justification=centering}
+\caption{Regression Disctontinuity Estimates for the Effect \\ of Exceeding BAC Thresholds on Predetermined Characteristics}
+\begin{threeparttable}
+\begingroup
+\setlength{\tabcolsep}{10pt}
+\renewcommand{\arraystretch}{1.5}
+ % Default value: 1
+\begin{tabular}{l*{4}{c}}
+\toprule
+& \multicolumn{3}{>{\centering\arraybackslash}m{150pt}}{Driver demographic characteristics} & \\ \cline{2-4}
+& Male & White & Age & Accident \\
+Characteristics & (1) & (2) & (3) & (4) \\
+\hline
+DUI                 &       0.006   &       0.006   &      -0.140   &      -0.003   \\
+                    &     (0.006)   &     (0.005)   &     (0.164)   &     (0.004)   \\
+\\
+Observations        &      89,967   &      89,967   &      89,967   &      89,967   \\
+Mean (at 0.079)     &        0.80   &        0.86   &       33.62   &        0.10   \\
+\hline \hline
+\end{tabular}
+\endgroup
+\begin{tablenotes} \centering
+\small
+\item This table contains egression discontinuity based estimates of                   the effect of having BAC above the DUI threshold on recidivism.                   Panel A contains estimates with a bandwidth of 0.05 while Panel B                   has a bandwidth of 0.025, with all regressions utilizing a rectangular                   kernel for weighting.                    Robust standard errors. * p$<$0.10, ** p$<$0.05, *** p$<$0.01
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+\end{center}

@@ -1,0 +1,1134 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.19)  14 JUN 2020 11:12
+entering extended mode
+**"C:/Users/Nicolás Urdaneta/Documents/GitHub/causal-inference-NU/Assignments/
+Assignment 4/Assignment 4 - N Urdaneta.tex"
+
+("C:/Users/Nicolás Urdaneta/Documents/GitHub/causal-inference-NU/Assignments/A
+ssignment 4/Assignment 4 - N Urdaneta.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15>
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\a
+rticle.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\s
+ize11.clo"
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\
+tabularx.sty"
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\
+array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box45
+\extrarowheight=\dimen136
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+\TX@col@width=\dimen137
+\TX@old@table=\dimen138
+\TX@old@col=\dimen139
+\TX@target=\dimen140
+\TX@delta=\dimen141
+\TX@cols=\count175
+\TX@ftn=\toks16
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\i
+nputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babe
+l\babel.sty"
+Package: babel 2020/05/13 3.44 The Babel package
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babe
+l\babel.def"
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen142
+\l@babelnohyphens=\language78
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babe
+l\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count177
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\
+bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-
+english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 108.
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geomet
+ry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphi
+cs\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifte
+x\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifte
+x\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count178
+\Gm@cntv=\count179
+\c@Gm@tempcnt=\count180
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks20
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geomet
+ry\geometry.cfg"))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\
+indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphi
+cs\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphi
+cs\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphi
+cs\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphi
+cs-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphi
+cs-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\
+float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count181
+\float@exts=\toks21
+\float@box=\box47
+\@float@everytoks=\toks22
+\@floatcapt=\box48
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperr
+ef\hyperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxc
+mds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftex
+cmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infw
+arerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvse
+tkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvde
+finekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfe
+scape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolo
+r\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltx
+macro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhoo
+k\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvopti
+ons\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count182
+\Hy@pagecounter=\count183
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperr
+ef\pd1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intc
+alc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etex
+cmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count184
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count185
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\ur
+l.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen154
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bits
+et\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigi
+ntcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count186
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbe
+gshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count187
+\c@Item=\count188
+\c@Hfootnote=\count189
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperr
+ef\hpdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atvery
+end\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count190
+\c@bookmark@seq@number=\count191
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunf
+ilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniq
+uecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip51
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathto
+ols\mathtools.sty"
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\
+calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count192
+\calc@Bcount=\count193
+\calc@Adimen=\dimen157
+\calc@Bdimen=\dimen158
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count194
+\calc@Cskip=\skip54
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathto
+ols\mhsetup.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmat
+h\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmat
+h\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmat
+h\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen159
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmat
+h\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmat
+h\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip17
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks24
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks25
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks26
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count273
+\l_MT_multwidth_dim=\dimen168
+\origjot=\skip58
+\l_MT_shortvdotswithinadjustabove_dim=\dimen169
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen170
+\l_MT_above_intertext_sep=\dimen171
+\l_MT_below_intertext_sep=\dimen172
+\l_MT_above_shortintertext_sep=\dimen173
+\l_MT_below_shortintertext_sep=\dimen174
+\xmathstrut@box=\box51
+\xmathstrut@dim=\dimen175
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/previe
+w\preview.sty"
+Package: preview 2017/04/24 11.91 (AUCTeX/preview-latex)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/luat
+ex85\luatex85.sty"
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumit
+em\enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip59
+\enit@outerparindent=\dimen176
+\enit@toks=\toks28
+\enit@inbox=\box52
+\enit@count@id=\count274
+\enitdp@description=\count275
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfil
+es\subfiles.sty"
+Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import
+\import.sty"
+Package: import 2020/04/01  v 6.2
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cancel
+\cancel.sty"
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/fr
+ontendlayer\tikz.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/ba
+siclayer\pgf.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/ut
+ilities\pgfrcs.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen177
+\pgfutil@tempdimb=\dimen178
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgfutil-common-lists.tex"))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgfutil-latex.def"
+\pgfutil@abb=\box53
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\eve
+ryshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgfrcs.code.tex"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\
+pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/ba
+siclayer\pgfcore.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/sy
+stemlayer\pgfsys.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+systemlayer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen179
+\pgf@y=\dimen180
+\pgf@xa=\dimen181
+\pgf@ya=\dimen182
+\pgf@xb=\dimen183
+\pgf@yb=\dimen184
+\pgf@xc=\dimen185
+\pgf@yc=\dimen186
+\pgf@xd=\dimen187
+\pgf@yd=\dimen188
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count276
+\c@pgf@countb=\count277
+\c@pgf@countc=\count278
+\c@pgf@countd=\count279
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count280
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+systemlayer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+systemlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count281
+\pgfsyssoftpath@bigbuffer@items=\count282
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+systemlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor
+\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphi
+cs-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmath.code.tex"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathcalc.code.tex"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathutil.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen189
+\pgfmath@count=\count283
+\pgfmath@box=\box54
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.code.tex"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.basic.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.trigonometric.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.random.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.comparison.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.base.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.round.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.misc.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count284
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfint.code.tex")
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen190
+\pgf@picmaxx=\dimen191
+\pgf@picminy=\dimen192
+\pgf@picmaxy=\dimen193
+\pgf@pathminx=\dimen194
+\pgf@pathmaxx=\dimen195
+\pgf@pathminy=\dimen196
+\pgf@pathmaxy=\dimen197
+\pgf@xx=\dimen198
+\pgf@xy=\dimen199
+\pgf@yx=\dimen256
+\pgf@yy=\dimen257
+\pgf@zx=\dimen258
+\pgf@zy=\dimen259
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen260
+\pgf@path@lasty=\dimen261
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen262
+\pgf@shorten@start@additional=\dimen263
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count285
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen264
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen265
+\pgf@pt@y=\dimen266
+\pgf@pt@temp=\dimen267
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen268
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen269
+\pgf@sys@shading@range@num=\count286
+\pgf@shadingcount=\count287
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box58
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box59
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/co
+mpatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen270
+\pgf@nodesepend=\dimen271
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/co
+mpatibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/ut
+ilities\pgffor.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/ut
+ilities\pgfkeys.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgfkeys.code.tex"))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/ma
+th\pgfmath.sty"
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmath.code.tex"))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+math\pgfmath.code.tex")
+\pgffor@iter=\dimen272
+\pgffor@skip=\dimen273
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+libraries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count288
+\pgfplotmarksize=\dimen274
+)
+\tikz@lastx=\dimen275
+\tikz@lasty=\dimen276
+\tikz@lastxsaved=\dimen277
+\tikz@lastysaved=\dimen278
+\tikz@lastmovetox=\dimen279
+\tikz@lastmovetoy=\dimen280
+\tikzleveldistance=\dimen281
+\tikzsiblingdistance=\dimen282
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count289
+\tikznumberofchildren=\count290
+\tikznumberofcurrentchild=\count291
+\tikz@fig@count=\count292
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count293
+\pgfmatrixcurrentcolumn=\count294
+\pgf@matrix@numberofcolumns=\count295
+)
+\tikz@expandcount=\count296
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/
+frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss
+\pifont.sty"
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss
+\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss
+\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsiz
+e\relsize.sty"
+Package: relsize 2013/03/29 ver 4.1
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfon
+ts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfon
+ts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bookta
+bs\booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen283
+\lightrulewidth=\dimen284
+\cmidrulewidth=\dimen285
+\belowrulesep=\dimen286
+\belowbottomsep=\dimen287
+\aboverulesep=\dimen288
+\abovetopsep=\dimen289
+\cmidrulesep=\dimen290
+\cmidrulekern=\dimen291
+\defaultaddspace=\dimen292
+\@cmidla=\count297
+\@cmidlb=\count298
+\@aboverulesep=\dimen293
+\@belowrulesep=\dimen294
+\@thisruleclass=\count299
+\@lastruleclass=\count300
+\@thisrulewidth=\dimen295
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/threep
+arttable\threeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box64
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/captio
+n\caption.sty"
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/captio
+n\caption3.sty"
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen296
+\captionmargin@=\dimen297
+\captionwidth=\dimen298
+\caption@tempdima=\dimen299
+\caption@indent=\dimen300
+\caption@parindent=\dimen301
+\caption@hangindent=\dimen302
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 35.
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3back
+end\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count303
+\l__pdf_internal_box=\box65
+) ("Assignment 4 - N Urdaneta.aux")
+\openout1 = `"Assignment 4 - N Urdaneta.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=681.15898pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-40.36449pt
+* \headheight=0.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/context/base
+/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count304
+\scratchdimen=\dimen303
+\scratchbox=\box66
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen304
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks42
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstop
+df-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\AtBeginShipoutBox=\box67
+Package hyperref Info: Link coloring ON on input line 45.
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperr
+ef\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcou
+nt\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gett
+itlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count310
+)
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
+ ("Assignment 4 - N Urdaneta.out")
+("Assignment 4 - N Urdaneta.out")
+\@outlinefile=\write4
+\openout4 = `"Assignment 4 - N Urdaneta.out"'.
+
+ ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfon
+ts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+
+
+("C:\Users\Nicolás Urdaneta\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfon
+ts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (12.25456pt too wide) in paragraph at lines 51--54
+[][]$\OT1/cmtt/m/it/10.95 https : / / github . com / scunning1975 / causal-[]in
+ference-[]class / raw / master / hansen _ dwi$[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[1
+
+{C:/Users/Nicolás Urdaneta/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+<C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Hist.png, id=24, 851.1
+8pt x 619.31375pt>
+File: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Hist.png Graphic 
+file (type png)
+<use C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Hist.png>
+Package pdftex.def Info: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figure
+s/Hist.png  used on input line 80.
+(pdftex.def)             Requested size: 340.46596pt x 247.72112pt.
+[2 <C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Hist.png (PNG copy)
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+("C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Tables/table1.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+<C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1a.png, id=34, 851.
+18pt x 619.31375pt>
+File: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1a.png Graphic
+ file (type png)
+<use C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1a.png>
+Package pdftex.def Info: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figure
+s/Fig1a.png  used on input line 109.
+(pdftex.def)             Requested size: 314.93166pt x 229.1425pt.
+<C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1b.png, id=35, 851.
+18pt x 619.31375pt>
+File: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1b.png Graphic
+ file (type png)
+<use C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1b.png>
+Package pdftex.def Info: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figure
+s/Fig1b.png  used on input line 114.
+(pdftex.def)             Requested size: 314.93166pt x 229.1425pt.
+[3] [4 <C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1a.png (PNG 
+copy)> <C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig1b.png (PNG 
+copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+("C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Tables/table2a.tex")
+("C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Tables/table2b.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+<C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig2.png, id=55, 853.1
+875pt x 378.41376pt>
+File: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig2.png Graphic 
+file (type png)
+<use C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig2.png>
+Package pdftex.def Info: C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figure
+s/Fig2.png  used on input line 148.
+(pdftex.def)             Requested size: 472.03123pt x 209.36386pt.
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
+
+ []
+
+[6 <C:/Users/Nicolás Urdaneta/Documents/GitHub/RDD/Figures/Fig2.png (PNG copy)
+>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+ ("Assignment 4 - N Urdaneta.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+Package rerunfilecheck Info: File `"Assignment 4 - N Urdaneta".out' has not cha
+nged.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
+ ) 
+Here is how much of TeX's memory you used:
+ 20269 strings out of 480799
+ 385722 string characters out of 2890178
+ 642861 words of memory out of 3000000
+ 35791 multiletter control sequences out of 15000+200000
+ 543164 words of font info for 66 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,12n,60p,992b,621s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Nicolás Urdaneta/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/Nicolás Urdaneta/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Nicolás Urdane
+ta/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmitt10.pfb
+><C:/Users/Nicolás Urdaneta/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Users/Nicolás Urdaneta/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nicolás Urdaneta/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
+sers/Nicolás Urdaneta/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr17.pfb><C:/Users/Nicolás Urdaneta/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Nicolás Urdaneta/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ni
+colás Urdaneta/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti10.pfb><C:/Users/Nicolás Urdaneta/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Assignment 4 - N Urdaneta.pdf" (6 pages, 423834 bytes).
+PDF statistics:
+ 116 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+
